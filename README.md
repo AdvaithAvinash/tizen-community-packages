@@ -63,10 +63,10 @@ Please check the [Releases](../../releases) page for version-specific details.
 | **OpenIPTV** | Privacy focused IPTV player for Samsung Tizen TVs with extended M3U playlists, favourites and search. | [shayanline](https://github.com/shayanline/OpenIPTV) | `1.3.0` |
 | **OTTplay FOSS** | FOSS OTT / IPTV thin client for Tizen. | [prog4food](https://github.com/prog4food/ottplay-foss-thin-clients) | `Sat, 21 Jan 2023 15:15:16 GMT` |
 | **Overscan** | Sideloadable web browser for Samsung Tizen TVs: desktop user agent, JavaScript on, D-pad cursor. | [Apps2Samsung](https://github.com/Apps2Samsung/Overscan) | `build-481d83c` |
-| **Pelagica** | A modern web, desktop and TV client for Jellyfin | [PelagicaApp](https://github.com/PelagicaApp/pelagica) | `4.11.0` |
+| **Pelagica** | A modern web, desktop and TV client for Jellyfin | [PelagicaApp](https://github.com/PelagicaApp/pelagica) | `4.11.1` |
 | **PlayerAVPlay** | AVPlayer app | [yadPe](https://github.com/yadPe/PlayerAVPlay) | `latest` |
 | **React IPTV** | IPTV player for Samsung Tizen TV, built with React. | [anandsimmy](https://github.com/anandsimmy/react-iptv) | `7a7dcc2` |
-| **Reelo** | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Sat, 26 Sep 2026 18:10:14 GMT` |
+| **Reelo** | TV client for the Reelo service: films and series with a remote-first interface, family profiles and library sync between devices (Russian UI). | [Reelo](https://github.com/ihovsky/Reelo) | `Mon, 28 Sep 2026 01:38:02 GMT` |
 | **Reiverr** | A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. | [aleksilassila](https://github.com/aleksilassila/reiverr) | `dbdd50d` |
 | **RTSP Camera Viewer** | Display RTSP streams from IP cameras on your Samsung TV, with numpad channel switching and a 4-camera grid. Requires the companion rtsp-samsung-tv server (Node or Docker) running on your LAN. | [vzakharchenko](https://github.com/vzakharchenko/rtsp-samsung-tv) | `3aefa34` |
 | **RÚV** | Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV) | [RÚV VOD](https://github.com/sverrirs/ruv-app-samsung) | `2026.08.25-2350` |
