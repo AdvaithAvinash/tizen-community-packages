@@ -2,9 +2,7 @@
   "name": "AniUltimatium",
   "description": "Anime streaming app for Samsung Tizen TVs.",
   "repo": "AdvaithAvinash/AniUltimatium",
-  "source": "build",
+  "source": "release",
   "branch": "main",
-  "project_path": "public",
-  "skip_npm": true,
   "output_name": "AniUltimatium.wgt"
 }
